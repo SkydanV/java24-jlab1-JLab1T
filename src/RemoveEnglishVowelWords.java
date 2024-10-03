@@ -8,8 +8,7 @@ public class RemoveEnglishVowelWords {
         
         System.out.println("Enter your text:");
         String text = scanner.nextLine();
-        
-       
+               
         String vowels = "aeiouAEIOU";
         
        
